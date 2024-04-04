@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+dimen activity_vertical_margin_small
+dimen buttonTextSize
+dimen header_margin
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id dateOfBirthInput
+id emailInput
+id revertButton
+id saveButton
+id userNameInput
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string dob_label
+string email_hint
+string email_label
+string name_hint
+string name_label
+string revert
+string save
+string settings_title
+style Theme.LocalTesting
+xml backup_rules
+xml data_extraction_rules
